@@ -1,0 +1,9 @@
+Add location marks to SVG file
+
+Written by: Ori Idan <ori@heliconbooks.com>
+License: GPL version 3.0
+
+This is a PHP script to add location marks on a SVG map.
+Locations will be marked with red circle.
+
+
